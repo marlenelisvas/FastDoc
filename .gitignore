@@ -1,0 +1,7 @@
+/.class
+*/target/**
+*/target/*
+/target/
+/Amrest_FastDoc/target/**
+/.idea
+/.settings
